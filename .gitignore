@@ -1,0 +1,7 @@
+my_first_fpga/**
+my_stopwatch/**
+!my_stopwatch/*.v
+!my_stopwatch/report
+!my_stopwatch/report/*
+sc_computer_test/*
+pipeline_computer/*
